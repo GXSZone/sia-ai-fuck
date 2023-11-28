@@ -30,7 +30,7 @@
 - 数据支持：MySQL5.7 + Redis
 
 ## 扫码获取
-### 微信扫码
+### 微信扫码咨询最新套路
 > 备注：AIGC咨询
 
 <img src='images/wechat.png' width='180' alt='微信二维码'/>
